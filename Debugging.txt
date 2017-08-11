@@ -1,0 +1,6 @@
+1- Set break points.
+2- Start the debugger.
+3- Add watches.
+4- Step through the code line by line and note the watches.
+5. At any time we can press continue and skip debugging to the next break
+   point or the next iteration for the same break point.
